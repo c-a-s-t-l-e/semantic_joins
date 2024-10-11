@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "semantic_joins"
+  site-url: "https://c-a-s-t-l-e.github.io/semantic_joins"
+  description: "Allows you to build ERDs and identify possible join columns based on semantic meanings found within data dictionaries."
+  repo-branch: main
+  repo-url: "https://github.com/c-a-s-t-l-e/semantic_joins"
